@@ -9,6 +9,7 @@ import java.util.Scanner;
 
 public class Promedio{
 
+// Esta es una prueba de GitHub
 /**
 * Metodo principal de la clase que se encarga de 
 * calcular el promedio de cuatro examenes
