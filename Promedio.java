@@ -41,6 +41,7 @@ resultado = primerNota + segundaNota + terceraNota + cuartaNota;
 notaFinal = resultado / 4;
 
 System.out.println("El promedio es: " + notaFinal);
+// Este es el resultado final
 }
 
 }
