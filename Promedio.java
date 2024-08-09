@@ -42,6 +42,7 @@ notaFinal = resultado / 4;
 
 System.out.println("El promedio es: " + notaFinal);
 // Este es el resultado final
+// Este es la tercera modificacion
 }
 
 }
